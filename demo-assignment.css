@@ -5,6 +5,48 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.button {
+    color: white;
+    background-image: linear-gradient(orangered, tomato);
+    text-decoration: none;
+    border-radius: 20px 20px 20px 20px;
+    padding: 2% 5%;
+}
+
+span {
+    color: orangered;
+}
+
+.first-part {
+    width: 50%;
+    font-weight: 900;
+
+}
+
+section {
+    display: flex;
+    padding: 5%;
+}
+
+.first-part {
+    padding: 25px;
+}
+
 h1 {
-    background-color: yellowgreen;
+    font-weight: 900;
+}
+
+.h1-line {
+    line-height: 15px;
+    font-size: xx-large;
+}
+
+.first-2-p {
+    line-height: 10px;
+    margin: 18px;
+}
+
+
+.2ns-section {
+    background-image: url(7.png);
 }
