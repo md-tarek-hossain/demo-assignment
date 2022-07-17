@@ -48,6 +48,7 @@ h1 {
 
 #secound-section {
     background-image: url(7.png);
+    background-repeat: no-repeat;
     display: flex;
     padding: 5%;
 
